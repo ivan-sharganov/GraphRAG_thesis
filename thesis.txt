@@ -27,8 +27,9 @@
 }
 
 % Полуторный интервал, абзацный отступ 1,25 см, выравнивание по ширине.
-\usepackage{setspace}
-\OnehalfSpacing
+% \usepackage{setspace}
+% \OnehalfSpacing
+\linespread{1.5}
 \usepackage{indentfirst}
 \setlength{\parindent}{1.25cm}
 \setlength{\parskip}{0pt}
