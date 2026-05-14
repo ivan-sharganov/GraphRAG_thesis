@@ -98,6 +98,34 @@
 
 \begin{document}
 
+\begin{titlepage}
+    \thispagestyle{empty}
+    \begin{center}
+        \normalsize
+        ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ\\
+        ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ\\
+        УНИВЕРСИТЕТ ИТМО
+
+        \vspace{3cm}
+
+        \textbf{ВЫПУСКНАЯ КВАЛИФИКАЦИОННАЯ РАБОТА}
+
+        \vspace{1.5cm}
+
+        \textbf{Разработка чат-бота для семантического поиска в текстовых форумах на основе GraphRAG}
+
+        \vspace{10cm}
+
+        Выполнил:\\
+        \textbf{ШАРГАНОВ ИВАН ГРИГОРЬЕВИЧ}
+
+        \vfill
+
+        Санкт-Петербург\\
+        2026
+    \end{center}
+\end{titlepage}
+
 \tableofcontents
 \newpage
 
